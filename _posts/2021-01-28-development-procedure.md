@@ -138,8 +138,8 @@ The following steps will show you how to use **FaceView** and **ARView**
    <pre><div id="copy-button23" class="copy-btn" title="Copy" onclick="copyCode(this.id)"></div><code>val index: Int = faceView.loadAsset("FaceView/${item.path}.glb", LandmarkType.TIP_OF_NOSE)<span class="pln"></span></code></pre>
 
    <aside class="special">
-   	<p><strong>Note:</strong> 
-       <p>The marker position can be any of the five positions, including nose tip, left or right eye, and left or right corner of the mouse</p></aside>
+   <p><strong>Note:</strong></p>
+   <p>The marker position can be any of the five positions, including nose tip, left or right eye, and left or right corner of the mouse</p></aside>
 
 2. Set the initial status of the loaded material.
 

@@ -8,8 +8,6 @@ description: 1
 -   A computer (desktop or laptop) running Windows 7 or Windows 10.
 -   A Huawei phone (with a data cable), which is used for debugging your app with the SDK/Full-SDK of Scene Kit integrated.
 
-
-
 **Software Requirements**
 -------------------------
 

@@ -24,7 +24,6 @@ Tapping **Wear Mask-FaceView**, and **Furniture Choice-ARView** buttons will sho
     <img style="width: 100.00px ; padding: 5px" src="https://raw.githubusercontent.com/ZehraYilmaz/gh-pages-scenekitcodelab/main/assets/scene_kit_codelab_app_ss_2.png">
     <img style="width: 100.00px ; padding: 5px" src="https://raw.githubusercontent.com/ZehraYilmaz/gh-pages-scenekitcodelab/main/assets/scene_kit_codelab_app_ss_3.png">
 </div>
-
 **Furniture Choice-ARView**:
 
 <div style="padding: 5px"> 
