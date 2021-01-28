@@ -16,7 +16,7 @@ Scene Kit works only depending on the device, without connecting to HUAWEI AppGa
 
    Configure the Maven repository address in the project-level **build.gradle** file.
 
-   <pre><div id="copy-button23" class="copy-btn" title="Copy" onclick="copyCode(this.id)"></div><code>buildscript {
+   <pre><div id="copy-button17" class="copy-btn" title="Copy" onclick="copyCode(this.id)"></div><code>buildscript {
        repositories {
            ...
            maven { url 'https://developer.huawei.com/repo/' }
@@ -33,7 +33,7 @@ Scene Kit works only depending on the device, without connecting to HUAWEI AppGa
 
    Configure the dependency package in the app-level **build.gradle** file.
 
-   <pre><div id="copy-button23" class="copy-btn" title="Copy" onclick="copyCode(this.id)"></div><code>dependency {
+   <pre><div id="copy-button18" class="copy-btn" title="Copy" onclick="copyCode(this.id)"></div><code>dependency {
        ...
        implementation 'com.huawei.scenekit:sdk:{version}'
    }<span class="pln">
@@ -41,7 +41,7 @@ Scene Kit works only depending on the device, without connecting to HUAWEI AppGa
 
    The SDK of Scene Kit is used above. You can also use the Full-SDK as follows:
 
-   <pre><div id="copy-button23" class="copy-btn" title="Copy" onclick="copyCode(this.id)"></div><code>dependency {
+   <pre><div id="copy-button19" class="copy-btn" title="Copy" onclick="copyCode(this.id)"></div><code>dependency {
        ...
        implementation 'com.huawei.scenekit:full-sdk:{version}'
    }<span class="pln">
@@ -56,7 +56,7 @@ Scene Kit works only depending on the device, without connecting to HUAWEI AppGa
 
 3. In the **app/proguard-rules.pro** file, make necessary obfuscation configurations.
 
-   <pre><div id="copy-button23" class="copy-btn" title="Copy" onclick="copyCode(this.id)"></div><code>-ignorewarnings
+   <pre><div id="copy-button20" class="copy-btn" title="Copy" onclick="copyCode(this.id)"></div><code>-ignorewarnings
    -keepattributes *Annotation*
    -keepattributes Exceptions
    -keepattributes InnerClasses
