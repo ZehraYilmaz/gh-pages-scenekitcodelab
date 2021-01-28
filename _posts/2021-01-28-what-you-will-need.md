@@ -26,6 +26,6 @@ description: 2
 - Android multi-thread development capability
 
   <div style="padding: 5px">
-          <img style="padding: 5px" src="https://raw.githubusercontent.com/ZehraYilmaz/gh-pages-scenekitcodelab/assets/scenekit_codelab_doc_ss_1.PNG">
+          <img style="padding: 5px" src="https://raw.githubusercontent.com/ZehraYilmaz/gh-pages-scenekitcodelab/main/assets/scenekit_codelab_doc_ss_1.PNG">
   </div>
 
