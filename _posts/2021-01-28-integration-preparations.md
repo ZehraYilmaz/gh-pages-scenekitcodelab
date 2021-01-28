@@ -1,5 +1,5 @@
 ---
-title: "Integration Preparations
+title: "Integration Preparations"
 description: 2
 ---
 
