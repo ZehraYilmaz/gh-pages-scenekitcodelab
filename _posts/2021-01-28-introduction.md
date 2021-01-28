@@ -1,6 +1,6 @@
 ---
 title: "Introduction"
-description: 0
+description: 3
 ---
 
 <huawei-codelab-about codelab-title="HMS Scene Kit - MaskFit Codelab" last-updated="2021-01-28T13:20:13-07:00" authors="Huawei Codelab Team">
