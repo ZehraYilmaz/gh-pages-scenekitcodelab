@@ -1,6 +1,6 @@
 ---
 title: "Development Procedure"
-description: 3
+description: 15
 ---
 
 The following steps will show you how to use **FaceView** and **ARView**
