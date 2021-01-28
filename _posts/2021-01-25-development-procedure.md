@@ -25,12 +25,12 @@ The following steps will show you how to use **FaceView** and **ARView**
 2. Add a FaceView to the layout.
 
    <pre><div id="copy-button1" class="copy-btn" title="Copy" onclick="copyCode(this.id)"></div><code>
-   <com.huawei.hms.scene.sdk.FaceView
+    <span class="tag">&lt;com.huawei.hms.scene.sdk.FaceView</span><span class="pln">
        android:layout_width="match_parent"
        android:layout_height="match_parent"
        android:id="@+id/faceView"
        app:sdk_type="AR_ENGINE">
-   </com.huawei.hms.scene.sdk.FaceView>
+   <span class="tag">&lt;/com.huawei.hms.scene.sdk.FaceView></span><span class="pln">
    <span class="pln">
    </span></code></pre>
 
@@ -77,13 +77,15 @@ The following steps will show you how to use **FaceView** and **ARView**
 
 2. Add an **ARView** to the layout.
 
-   <pre><div id="copy-button7" class="copy-btn" title="Copy" onclick="copyCode(this.id)"></div><code><com.huawei.hms.scene.sdk.ARView
-       android:id="@+id/arView"
+   <pre><div id="copy-button7" class="copy-btn" title="Copy" onclick="copyCode(this.id)"></div><code>
+   <span class="tag">&lt;com.huawei.hms.scene.sdk.ARView</span><span class="pln">
        android:layout_width="match_parent"
-       android:layout_height="match_parent">
-   </com.huawei.hms.scene.sdk.ARView>
+       android:layout_height="match_parent"
+       android:id="@+id/arView">
+   <span class="tag">&lt;/com.huawei.hms.scene.sdk.ARView></span><span class="pln">
    <span class="pln">
    </span></code></pre>
+   
 
    <aside class="special">
    	<p><strong>Note:</strong> 
