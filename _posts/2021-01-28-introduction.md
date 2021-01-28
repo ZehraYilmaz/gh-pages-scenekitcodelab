@@ -3,7 +3,7 @@ title: "Introduction"
 description: 1
 ---
 
-<huawei-codelab-about codelab-title="HMS Scene Kit - MaskFit Codelab" last-updated="2020-12-30T13:20:13-07:00" authors="Huawei Codelab Team">
+<huawei-codelab-about codelab-title="HMS Scene Kit - MaskFit Codelab" last-updated="2021-01-28T13:20:13-07:00" authors="Huawei Codelab Team">
 
 <div class="HMS Scene Kit - MaskFit Codelab">
 <div class="token">HMS Scene Kit - MaskFit Codelab</div></div>
