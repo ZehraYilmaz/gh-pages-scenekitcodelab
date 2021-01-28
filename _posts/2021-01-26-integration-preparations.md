@@ -8,8 +8,8 @@ Scene Kit works only depending on the device, without connecting to HUAWEI AppGa
 1. Open Android Studio, go to **File** > **Open**, and select the directory where the **SceneKitDemo** sample code has been decompressed.
 
    <div style="padding: 5px">
-           <img style="width: 100.00px ; padding: 5px" src="https://raw.githubusercontent.com/ZehraYilmaz/gh-pages-scenekitcodelab/main/assets/scenekit_codelab_doc_ss_1.png">
-           <img style="width: 100.00px ; padding: 5px" src="https://raw.githubusercontent.com/ZehraYilmaz/gh-pages-scenekitcodelab/main/assets/scenekit_codelab_doc_ss_2.png">
+           <img style="width: 100.00px ; padding: 5px" src="https://raw.githubusercontent.com/ZehraYilmaz/gh-pages-scenekitcodelab/gh-pages/assets/scenekit_codelab_doc_ss_1.png">
+           <img style="width: 100.00px ; padding: 5px" src="https://raw.githubusercontent.com/ZehraYilmaz/gh-pages-scenekitcodelab/gh-pages/assets/scenekit_codelab_doc_ss_2.png">
    </div>
 
 2. Make sure that the Maven repository address, dependency package, permission, and obfuscation script are correctly configured. These items have been configured in the **SceneKitDemo** sample code. Modify them as needed in your own project.
