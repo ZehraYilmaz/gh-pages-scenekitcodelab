@@ -18,7 +18,7 @@ The following steps will show you how to use **FaceView** and **ARView**
 
 1. Create a FaceViewActivity that inherits from Activity.
 
-   <pre><div id="copy-button23" class="copy-btn" title="Copy" onclick="copyCode(this.id)"></div><code>class FaceViewActivity : Activity(), OnSelectedListener {
+   <pre><div id="copy-button21" class="copy-btn" title="Copy" onclick="copyCode(this.id)"></div><code>class FaceViewActivity : Activity(), OnSelectedListener {
    }<span class="pln">
    </span></code></pre>
 
