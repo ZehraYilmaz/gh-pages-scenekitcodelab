@@ -1,6 +1,6 @@
 ---
 title: "Integration Preparations"
-description: 2
+description: 4
 ---
 
 Scene Kit works only depending on the device, without connecting to HUAWEI AppGallery Connect.
