@@ -9,10 +9,11 @@
     <link rel="stylesheet" href="static/codelab-elements.css">
 </head>
 <body>
-<huawei-codelab id="HMSLocationKit" feedback-link="https://developer.huawei.com/consumer/en/support/feedback" selected="0" codelab-title="HMS Scene Kit - MaskFit Codelab">
+<huawei-codelab id="HMSSceneKit" feedback-link="https://developer.huawei.com/consumer/en/support/feedback" selected="0" codelab-title="HMS Scene Kit - MaskFit Codelab">
 
     <div id="main">
         <div id="steps">
+		{% assign post = site.posts | sort:"order" %}
 			{% for post in site.posts %}
             <huawei-codelab-step label="{{ post.title | escape }}" duration="{{ post.description }}">
                 {{ post.content }}
