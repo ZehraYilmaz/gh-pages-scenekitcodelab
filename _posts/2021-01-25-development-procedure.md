@@ -139,7 +139,7 @@ The following steps will show you how to use **FaceView** and **ARView**
 
    <aside class="special">
    <p><strong>Note:</strong></p>
-   <p>The marker position can be any of the five positions, including nose tip, left or right eye, and left or right corner of the mouse</p></aside>
+   The marker position can be any of the five positions, including nose tip, left or right eye, and left or right corner of the mouse.</aside>
 
 2. Set the initial status of the loaded material.
 
