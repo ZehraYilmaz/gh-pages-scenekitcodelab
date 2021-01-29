@@ -11,6 +11,6 @@ description: 1
 
   Sample Code Download
 
-  [Download source code](https://git.huawei.com/hms---turkey-dtse-branch/Team-A10/scene_kit_codelab)
+  [Download source code]()
   
   
